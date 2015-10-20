@@ -5,7 +5,7 @@ Date: October 23-24, 2015
 Website: http://hackathon.dominionenterprises.com/
 
 ###Challenge: Potholes Management System
-(Greate app for responsive city)
+####Greate app for responsive city
 
 Members:
 Bart,
