@@ -1,14 +1,15 @@
-#This is the repository for HackToHelp Hampton Roads
+###This is the repository for HackToHelp Hampton Roads
 
-Date:
-Website:
+Date: October 23-24, 2015
 
-Challenge to take:
+Website: http://hackathon.dominionenterprises.com/
+
+###Challenge to take: Potholes Management System
 
 Members:
-Bart
-John
-Hung
-Minh
-Sarah
+Bart,
+John,
+Hung,
+Minh,
+Sarah,
 Asim
