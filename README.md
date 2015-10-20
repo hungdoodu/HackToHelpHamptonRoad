@@ -15,3 +15,7 @@ Asim
 ###Challenge: Potholes Management System
 ####Greate app for responsive city
 
+####Motivation
+
+####Approach
+
